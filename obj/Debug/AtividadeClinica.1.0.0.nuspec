@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AtividadeClinica</id>
+    <version>1.0.0</version>
+    <authors>AtividadeClinica</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Vinic\source\repos\AtividadeClinica\AtividadeClinica\bin\Debug\net6.0-windows\AtividadeClinica.runtimeconfig.json" target="lib\net6.0-windows7.0\AtividadeClinica.runtimeconfig.json" />
+    <file src="C:\Users\Vinic\source\repos\AtividadeClinica\AtividadeClinica\bin\Debug\net6.0-windows\AtividadeClinica.dll" target="lib\net6.0-windows7.0\AtividadeClinica.dll" />
+  </files>
+</package>
