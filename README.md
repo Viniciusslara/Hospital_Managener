@@ -1,1 +1,1 @@
-# Hospital_Managener
+# Project about a hospital manager application
